@@ -11,4 +11,4 @@ screens sizes.
 
 ## How it looks
 
-<img src="https://github.com/Insha-Siddiquii/flutter-whatsApp-ui/blob/master/snaps/whatsapp.gif"  height="550">
+<img src="https://github.com/Insha-Siddiquii/flutter_adaptive_navigation/blob/master/snaps/adaptive.gif"  height="550">
